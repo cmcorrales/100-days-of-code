@@ -14,3 +14,5 @@ XFFF3DY
 **Today's Progress** I worked on completing the quote machine project. 
 
 **Thoughts** Encountered some trouble refreshing a div with a new quote.
+
+### Day 2: December 31, 2017
