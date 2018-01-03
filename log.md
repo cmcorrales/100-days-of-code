@@ -35,3 +35,12 @@ XFFF3DY
 
 **Link to work:** [Quote Machine](https://github.com/cmcorrales/simpsons-quote-machine)
 XFFF3DY
+
+### Day 4: January 2, 2017
+
+**Today's Progress** Began Weather App project, added function to retrieve user's geolocation, linked to Open Weather Map API, displayed city name, temperature and icon on html page.  
+
+**Thoughts** I'm feeling much more confident pulling and displaying data from APIs.
+
+**Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
+XFFF3DY
