@@ -7,7 +7,7 @@
 **Thoughts:** Stumbled a bit with algorithms, but enjoyed working with JavaScript again.
 
 **Link to work:** [Quote Machine](https://github.com/cmcorrales/simpsons-quote-machine)
-XFFF3DY
+
 
 ### Day 1: December 30, 2017
 
@@ -16,7 +16,7 @@ XFFF3DY
 **Thoughts** Encountered some trouble refreshing a div with a new quote.
 
 **Link to work:** [Quote Machine](https://github.com/cmcorrales/simpsons-quote-machine)
-XFFF3DY
+
 
 ### Day 2: December 31, 2017
 
@@ -25,7 +25,7 @@ XFFF3DY
 **Thoughts** I was finally able to refresh a div with a new quote after a lot of research. Compartmentalizing my code into functions really helped.
 
 **Link to work:** [Quote Machine](https://github.com/cmcorrales/simpsons-quote-machine)
-XFFF3DY
+
 
 ### Day 3: January 1, 2017
 
@@ -34,7 +34,7 @@ XFFF3DY
 **Thoughts** Flexbox made the centering of elements simple. I was hoping to achieve a simpson-esque look, may revisit this later to make it more compatible with my vision.
 
 **Link to work:** [Quote Machine](https://github.com/cmcorrales/simpsons-quote-machine)
-XFFF3DY
+
 
 ### Day 4: January 2, 2017
 
@@ -43,4 +43,4 @@ XFFF3DY
 **Thoughts** I'm feeling much more confident pulling and displaying data from APIs.
 
 **Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
-XFFF3DY
+
