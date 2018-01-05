@@ -44,3 +44,20 @@
 
 **Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
 
+
+### Day 5: January 3, 2017
+
+**Today's Progress** Added toggle button to switch temperature from fahrenheit to celsius.
+
+**Thoughts** Still trying to get temperature data to switch in response to toggle button click.
+
+**Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
+
+
+### Day 6: January 6, 2017
+
+**Today's Progress** Added text to toggle button. Tried several approaches to get temperature data to switch in response to toggle button click.
+
+**Thoughts** Still trying to get temperature data to switch in response to toggle button click.
+
+**Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
