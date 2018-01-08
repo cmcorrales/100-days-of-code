@@ -54,10 +54,34 @@
 **Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
 
 
-### Day 6: January 6, 2017
+### Day 6: January 4, 2017
 
 **Today's Progress** Added text to toggle button. Tried several approaches to get temperature data to switch in response to toggle button click.
 
 **Thoughts** Still trying to get temperature data to switch in response to toggle button click.
 
 **Link to work:** [Weather App](https://github.com/cmcorrales/weather-app)
+
+
+### Day 7: January 5, 2017
+
+**Today's Progress** Began Wikipiedia Viewer project.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/cmcorrales/wikipedia-viewer)
+
+
+### Day 8: January 6, 2017
+
+**Today's Progress** Read through Wikipedia API documentation and set up general app structure. Refreshed memory on Sublime keyboard shortcuts and created cheat sheet in order to make a habit out of using them.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/cmcorrales/wikipedia-viewer)
+
+
+### Day 9: January 7, 2017
+
+**Today's Progress** Reviewed testing using Mocha.
+
+**Thoughts** Concepts made a lot more sense this time around than the last time I looked into testing a few months ago.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/cmcorrales/wikipedia-viewer)
+
